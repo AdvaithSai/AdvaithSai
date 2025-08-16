@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fashion Project<br>👯 I’m looking to collaborate on MERN Framework<br>🤝 I’m looking for help with Shortest Path Project<br>🌱 I’m currently learning MERN Stack<br>
+🌱 Passionate learner<br>
 
 
 ## 🌐 Socials:
